@@ -17,3 +17,14 @@ You just got some contract work with an Ecommerce company based in New York City
 6. Evaluating The Models Performance 
 7. Residuals 
 8. Conclusion 
+
+## Conclusion 
+We still want to figure out the answer to the original question, do we focus our efforst on mobile app or website development? 
+
+By interpreting the linear regression analysis using the coefficients, we can see that the company's website needs the most improvement. The company's mobile app is already performing very well. Therefore, the company should focus on developing the mobile app, taking into account membership features.
+
+- avg. session Length coefficient: 25.724256
+- Time on App coefficient: 38.597135
+- Time on Website coefficient: .459148
+- Length of Membership coefficient: 61.674732
+
